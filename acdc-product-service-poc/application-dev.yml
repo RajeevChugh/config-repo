@@ -1,3 +1,7 @@
 limit:
   minimum: 10
   maximum: 10000
+
+info:
+  minimum: 10
+  maximum: 10000

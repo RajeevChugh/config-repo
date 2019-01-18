@@ -1,6 +1,6 @@
 limit:
-  minimum: 10
-  maximum: 10000
+  minimum: 5
+  maximum: 6
 
 info:
   minimum: 10

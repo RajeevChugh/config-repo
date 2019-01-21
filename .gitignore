@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+#target/
+*/target/*
+
+
+#Idea folder
+.\idea
+*.iml
+
+# Dependency directory
+node_modules
+build/
+out/
+tmp/
+
+# eclipse project file
+.settings/
+.classpath
+.project
+*/bin/*

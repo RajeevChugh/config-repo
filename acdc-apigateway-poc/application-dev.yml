@@ -1,0 +1,3 @@
+apigateway:
+  minimum: 3
+  maximum: 4

@@ -1,0 +1,3 @@
+tracingserver:
+  minimum: 5
+  maximum: 6
